@@ -1,0 +1,23 @@
+{
+  "name": "moduk-react-spike-e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mts",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --esm index.mts"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@types/html-minifier-terser": "^7.0.0",
+    "@types/prettier": "^2.7.2",
+    "@types/react": "^18.0.33",
+    "html-minifier-terser": "^7.1.0",
+    "html-to-react": "^1.5.0",
+    "prettier": "^2.8.7",
+    "react": "^18.2.0",
+    "react-element-to-jsx-string": "^15.0.0",
+    "ts-node": "^10.9.1"
+  }
+}
